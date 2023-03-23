@@ -5,3 +5,5 @@
 1. Atributos de calidad
    - Mapa de empatia
    - Mini QWA
+   - Escenarios de calidad
+   - Tacticas y estrategias
