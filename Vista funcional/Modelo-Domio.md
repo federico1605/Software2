@@ -77,4 +77,4 @@ Simulación de datos
 
 **Modelado de de dominio enriquesido**
 
-![Modelo de dominio](/Imagenes/Modelo-Dominio/Modelo de dominio enriquesido.png)
+![Modelo de dominio](/Imagenes/Modelo-Dominio/ModeloDominioEnriquesido.png)
