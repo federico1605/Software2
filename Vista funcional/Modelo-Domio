@@ -1,18 +1,18 @@
 # Modelado de dominio
 
-*Cliente*
+**Cliente**
 Objeto que representa a un tipo de usuario, el cual es quien solicita el servicio de carro compartido. Es quien contacta con un conductor para llegar a un destino en común.
 
-*Conductor*
+**Conductor**
 Usuario encargadode realizar las rutas, es quien crea y da los detalles de cuando y por donde pasa, para así poder transportar a otros usuarios. El conductor tiene un vehiculo el cual dispone para compartir y trasportar a  otros usuarios.
 
-*Calificación*
+**Calificación**
 Objeto que representa cual es la calificacion conforme al servicio que recibio por parte del conductor, esta calificacion es general, toma en cuenta la actitud del conductor principalmente.
 
-*Vehiculo*
+**Vehiculo**
 Objeto que se encarga de identificar al vehiculo del conductor y a su vez la persina que lo registro en la aplicación.
 
-*Ruta*
+**Ruta**
 Objeto que nos representa cuales son las rutas que se da en un viaje, como la puede hacer, por donde pasa, quienes estuvieron en el viaje y hasta donde llegaron, se busca es guardar datos por seguridad de los usuarios.
 
 **Solicitud rua**
