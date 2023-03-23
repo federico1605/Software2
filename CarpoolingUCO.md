@@ -5,5 +5,5 @@
 1. Atributos de calidad
    - Mapa de empatia
    - Mini QWA
-   - Escenarios de calidad
+   - [Escenarios de calidad](https://github.com/federico1605/Software2/blob/main/Escenario-Calidad.md)
    - Tacticas y estrategias
