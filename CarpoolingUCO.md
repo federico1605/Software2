@@ -4,7 +4,7 @@
 - [Funcionalidades criticas](https://github.com/federico1605/Software2/blob/main/Funcionalidades%20criticas.md)
 - [Diagrama de clases](https://github.com/federico1605/Software2/blob/main/Imagenes/Diagrama-Clases/DiagramaDeClases.png)
 1. Atributos de calidad
-   - Mapa de empatia
+   - [Mapa de empatia](https://github.com/federico1605/Software2/blob/main/Drivers-Arquitectonicas.md)
    - Mini QWA
    - [Escenarios de calidad](https://github.com/federico1605/Software2/blob/main/Escenario-Calidad.md)
    - Tacticas y estrategias
