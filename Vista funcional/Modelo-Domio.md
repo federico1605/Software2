@@ -71,7 +71,10 @@ Objeto que tiene la funcion de especificar los diferentes paises registrados en 
 Simulación de datos
 
 **Modelo de dominio**
-![Modelo de dominio](...\Imagenes\Modelo-Dominio\Modelo de dominio enriquesido.png)
+
+![Modelo de dominio](/Imagenes/Modelo-Dominio/ModeloDominio.png)
 
 
 **Modelado de de dominio enriquesido**
+
+![Modelo de dominio](/Imagenes/Modelo-Dominio/Modelo de dominio enriquesido.png)
