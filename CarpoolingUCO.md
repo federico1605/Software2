@@ -40,7 +40,7 @@
 1.2.1.4 Diagrama de estado
 
 ### Vista lógica
-1.2.2.1 [Diagrama de clases](https://github.com/federico1605/Software2/blob/main/Imagenes/Diagrama-Clases/DiagramaDeClases.png)
+1.2.2.1 [Diagrama de clases]([https://github.com/federico1605/Software2/blob/main/Imagenes/Diagrama-Clases/DiagramaDeClases.png](https://github.com/federico1605/Software2/blob/main/Vista%20logica/Vista%20logica.md))
 
 1.2.2.2 Diagrama de objetos.
 
