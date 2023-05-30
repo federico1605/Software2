@@ -4,13 +4,12 @@
 
 1.1.2 Restricciones de negocio.
 
-1.1.2.1 Atributos de calidad.
+1.1.2.1 [Atributos de calidad.](https://github.com/federico1605/Software2/blob/main/Diseño/Atributos
+de calidad.md)
 
 1.1.2.1.1 [Mapa de empatia](https://github.com/federico1605/Software2/blob/main/Drivers-Arquitectonicas.md)
 
-1.1.2.1.2 Características.
-
-1.2.1.2.2 Priorización.
+1.2.1.2.2 [Priorización.](https://github.com/federico1605/Software2/blob/main/Imagenes/Drivers-Arquitectonicos/Votacion.png)
 
 1.1.2.1.3 [Escenarios de calidad](https://github.com/federico1605/Software2/blob/main/Escenario-Calidad.md)
 
@@ -22,7 +21,7 @@
 
 1.1.2.3 Restricciones de negocio.
 
-1.1.3 Alternativa de solución
+### 1.1.3 Alternativa de solución
 
 1.1.3.2 Arquitectura de referencia.
 
