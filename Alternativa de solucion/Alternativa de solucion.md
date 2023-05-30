@@ -1,11 +1,11 @@
 ## Arquitectura de referencia
 
-- ![](https://github.com/federico1605/Software2/blob/main/Imagenes/Atributos de calidad/Arquitectura de referencia.png)
+![](https://github.com/federico1605/Software2/blob/main/Imagenes/Alternativa%20de%20solucion/Arquitectura%20de%20referencia.png)
 
 -  Esta es la arquitectura la cual se propueso de referencia con la cual se va a contruir las bases para el proyecto CarpoolingUCO, la cual se orienta a una arquitectura en una plataforma web, la cual consta de todos los artefactos de seguridad y direccion logica la cual tomaria la aplicación.
 
 ## Arquetipo de solución
-- ![](https://github.com/federico1605/Software2/blob/main/Imagenes/Atributos de calidad/ArquetipoSolucion.png)
+![](https://github.com/federico1605/Software2/blob/main/Imagenes/Alternativa%20de%20solucion/ArquetipoSolucion.png)
 
 - El arquetipo que se planteo para solucionar las restricciones de la aplicación fue mantener la arquiterctura de referencia, pero añadiendo las tecnologias que van a solucionar las restricciones, como lo puede ser el uso de:
 - ### AWS WAF:
@@ -23,16 +23,16 @@
 - ### SendGrid:
     -Es el servicio que se va usar para generar mensajeria dentro y fuera de la aplicación, es un servicio de mensajeria, la cual es facil de integrar, permite multilenguaje, es muy eficiente en el uso de los recursos.
 ## Plataforma Tecnológica:
-- ###### Front End:
+- ### Front End:
 - Se desea utilizar el framework de codigo abierto Angular, la cual es una herramienta que pemite manejar la capa visual de una aplicación web, Angular brinda un entorno de trabajo estructurado, lo cual facilitara la mantenibilidad del codigo, provee funcioalidades que agilizan el desarrollo de la aplicación y tambien es muy eficiente para el uso de los usuarios, permite crear paginas web reactivas las cuales mejoran el uso del aplicativo.
 
 - Angular funcinoa con HTML, CSS y TypeScript.
 
-- ###### Back End:
+- ### Back End:
 - Toda la logica del proyecto se realizara en el lenguaje de programación Java haciendo uso del frame work Spring boot, la cual optimiza, mejora y provee herramientas las cuales agilizan el desarrollo de la aplicacion, como el uso por parte de los usuario e incorporando técnicas de código limpio las cuales permiten la mejora en la estructura y velocidad de la aplicación.
 
-- ###### Fuente de datos:
+- ### Fuente de datos:
 - Se utilizara una base de datos relacional se decidio utilizar este servicio como fuentes de datos, para garantizar la integridad de los datos, evitando la duplicidad de los datos que se creen, los cuales ayudaran al momento de de hacer uso del aplicatiovo.
 
-- ###### Provedor de identidades:
+- ### Provedor de identidades:
 - Se desea utilizar un servicio de autenticación de usuarios, para garantizar la seguridad y la identidad de los usuarios, para poder garantizar esto, se penso en usar Auth0, el cual proporciona todas las herramientas, las cuales ayudaran a garantizar las credenciales de los usuarios.
