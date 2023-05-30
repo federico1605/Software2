@@ -47,6 +47,8 @@
 1.2.2.3 Modelado de datos.
 
 ### Vista implementación.
+1.2.2.3.1 Diagrama de paquetes.
+
 1.2.2.3.1 Diagrama de secuencia.
 ### Vista física.
 1.2.5.1 Diagrama de despligegue.
