@@ -60,6 +60,14 @@ Objeto que tiene la funcion de especificar los departamentos que se registraron 
 
 Objeto que tiene la funcion de especificar los diferentes paises registrados en la aplicación.
 
+**Estado**
+
+Objeto que representa una etapa de estado generica para toda la aplicación de forma que representa los diferentes estados logicos en los cuales se puede presentar la aplicación
+
+**Usuario**
+
+Objeto que representa todas las personas que usan la aplicación de forma generica todas las personas que se registran en la aplicacion CarpoolingUCO
+
 Simulación de datos
 
 **Modelo de dominio**
