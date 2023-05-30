@@ -38,7 +38,7 @@ Objeto el cual guarda la posición de un conductor al momento de realizar una ru
 
 **Ruta guardada**
 
-Objeto que tiene la funcion de guardar todas las rutas que el conductor elija, de forma que  pueda publicar rutas con los mismos puntos de interes y así no tener que reescribir rutas que realizar de forma frecuente. 
+Objeto que tiene la funcion de guardar todas las rutas que el conductor elija, de forma que  pueda publicar rutas con los mismos puntos de interes y así no tener que reescribir rutas que realizar de forma frecuente.
 
 **Mensaje cliente**
 
