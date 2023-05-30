@@ -1,4 +1,7 @@
-# Modelado de dominio
+## 1.2.2.1 Diagrama de clases
+[Diagrama de clases](https://github.com/federico1605/Software2/blob/main/Imagenes/Diagrama-Clases/DiagramaDeClases.png)
+
+- Este diagrama de clases se creo con la necesidad de explicar cuales son las clases, metodos y atributos que tiene el proyecto de CarpoolingUCO, se muestra todos los metodos que cada clase puede crear, la comunicacion que se tienen entre las clases y cual son las clases que heredan, las clases que dependen de otras.
 
 **Cliente**
 
@@ -59,14 +62,3 @@ Objeto que tiene la funcion de especificar los departamentos que se registraron 
 **País**
 
 Objeto que tiene la funcion de especificar los diferentes paises registrados en la aplicación.
-
-Simulación de datos
-
-**Modelo de dominio**
-
-![Modelo de dominio](/Imagenes/Modelo-Dominio/ModeloDominio.png)
-
-
-**Modelado de de dominio enriquesido**
-
-![Modelo de dominio](/Imagenes/Modelo-Dominio/ModeloDominioEnriquesido.png)
