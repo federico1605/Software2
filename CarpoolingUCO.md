@@ -37,7 +37,7 @@
 
 1.2.1.3 Diagrama de actividades.
 
-1.2.1.4 Diagrama de estado
+1.2.1.4 [Diagrama de estado.](https://github.com/federico1605/Software2/blob/main/Vista%20funcional/Diagrama de estado.md)
 
 ### Vista lógica
 1.2.2.1 [Diagrama de clases](https://github.com/federico1605/Software2/blob/main/Vista%20logica/Vista%20logica.md)
