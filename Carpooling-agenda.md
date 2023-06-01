@@ -2,7 +2,7 @@
 ## 1.1 Diseño de alto nivel
 1.1.1 [Visión](https://github.com/federico1605/Software2/blob/main/Vista%20funcional/Vision.md).
 
-1.1.2 [Restricciones de diseño.](https://github.com/federico1605/Software2/blob/main/Dise%C3%B1o%20de%20alto%20nivel/Restricciones%20de%20dise%C3%B1o.md)
+## 1.1.2 Restricciones de diseño.
 
 1.1.2.1 [Atributos de calidad.](https://github.com/federico1605/Software2/blob/main/Dise%C3%B1o/Atributos%20de%20calidad.md)
 
