@@ -35,7 +35,7 @@
 
 1.2.1.2 [Modelo de dominio](https://github.com/federico1605/Software2/blob/main/Vista%20funcional/Modelo-Domio.md)
 
-1.2.1.3 [Diagrama de actividades.]()
+1.2.1.3 [Diagrama de actividades.](https://github.com/federico1605/Software2/blob/main/Dise%C3%B1o%20detallado/Diagrama%20de%20actividades.md)
 
 1.2.1.4 [Diagrama de estado.](https://github.com/federico1605/Software2/blob/main/Vista%20funcional/Diagrama%20de%20estado.md)
 
