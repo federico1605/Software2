@@ -52,6 +52,3 @@
 ## Vista de procesos
 
 1.2.4.1 [Diagrama de secuencia.](https://github.com/federico1605/Software2/blob/main/Vista%20de%20procesos/Vista%20de%20procesos.md)
-
-## Vista física.
-1.2.5.1 Diagrama de despligegue.
