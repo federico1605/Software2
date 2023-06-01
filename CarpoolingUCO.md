@@ -42,12 +42,14 @@
 ### Vista lógica
 1.2.2.1 [Diagrama de clases](https://github.com/federico1605/Software2/blob/main/Vista%20logica/Vista%20logica.md)
 
-1.2.2.2 Diagrama de objetos.
-
 1.2.2.3 Modelado de datos.
 
 ### Vista implementación.
 1.2.2.3.1 [Diagrama de paquetes.](https://github.com/federico1605/Software2/blob/main/Vista%20implementacion/Vista%20de%20implementacion.md)
+
+## Vista de procesos
+
+1.2.4.1 
 
 1.2.2.3.1 Diagrama de secuencia.
 ### Vista física.
