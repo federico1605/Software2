@@ -20,13 +20,13 @@
 
 1.1.2.3 Restricciones de negocio.
 
-### 1.1.3 [Alternativa de solución](https://github.com/federico1605/Software2/blob/main/Alternativa%20de%20solucion/Alternativa%20de%20solucion.md)
+### 1.1.3 Alternativa de solución.
 
-1.1.3.2 Arquitectura de referencia.
+1.1.3.2 [Arquitectura de referencia.](https://github.com/federico1605/Software2/blob/main/Alternativa%20de%20solucion/Alternativa%20de%20solucion.md)
 
-1.1.3.3 Arquetipo de solución.
+1.1.3.3 [Arquetipo de solución](https://github.com/federico1605/Software2/blob/main/Alternativa%20de%20solucion/Alternativa%20de%20solucion.md)
 
-1.1.3.4 Plataforma tecnológica.
+1.1.3.4 [Plataforma tecnológica](https://github.com/federico1605/Software2/blob/main/Alternativa%20de%20solucion/Alternativa%20de%20solucion.md)
 
 ### Diseño detallado.
 1.2.1 Vista funcional.
