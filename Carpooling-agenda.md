@@ -35,7 +35,7 @@
 
 1.2.1.2 [Modelo de dominio](https://github.com/federico1605/Software2/blob/main/Vista%20funcional/Modelo-Domio.md)
 
-1.2.1.3 Diagrama de actividades.
+1.2.1.3 [Diagrama de actividades.]()
 
 1.2.1.4 [Diagrama de estado.](https://github.com/federico1605/Software2/blob/main/Vista%20funcional/Diagrama%20de%20estado.md)
 
@@ -46,6 +46,8 @@
 
 ### Vista implementación.
 1.2.2.3.1 [Diagrama de paquetes.](https://github.com/federico1605/Software2/blob/main/Vista%20implementacion/Vista%20de%20implementacion.md)
+
+1.2.2.3.2 [Diagrama de componentes.]()
 
 ## Vista de procesos
 
