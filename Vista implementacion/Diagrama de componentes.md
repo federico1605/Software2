@@ -1,6 +1,6 @@
 ## Diagrama de componentes.
 
-![](hhttps://github.com/federico1605/Software2/blob/main/Imagenes/Vista%20implementacion/DiagramaDeComponentes.png)
+![](https://github.com/federico1605/Software2/blob/main/Imagenes/Vista%20implementacion/DiagramaDeComponentes.png)
 
 - Caracteristica: El diagrama de componentes representa cuales nos modela la vista estetica del sistema de Carpooling se deseo realizar porque con el entendemos como es la secuencia de pasos, quien se coneca con quien.
 
