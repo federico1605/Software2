@@ -4,7 +4,7 @@
 
 ## 1.1.2 Restricciones de diseño.
 
-1.1.2.1 [Atributos de calidad.](https://github.com/federico1605/Software2/blob/main/Dise%C3%B1o/Atributos%20de%20calidad.md)
+1.1.2.1 [Atributos de calidad.](https://github.com/federico1605/Software2/blob/main/Dise%C3%B1o%20de%20alto%20nivel/Atributos%20de%20calidad.md)
 
 1.1.2.1.1 [Mapa de empatia](https://github.com/federico1605/Software2/blob/main/Drivers-Arquitectonicas.md)
 
