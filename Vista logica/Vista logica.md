@@ -62,3 +62,8 @@ Objeto que tiene la funcion de especificar los departamentos que se registraron 
 **País**
 
 Objeto que tiene la funcion de especificar los diferentes paises registrados en la aplicación.
+
+![Diagrama entidad relación]()
+
+- Las entidades son las mismas y mantiene la misma descripción.
+- La motivación de hacer un MER es mostrar como es la estructura de la base de datos del proyecto, para poder analizar, mejorar y entender cuales son las relaciones, como se estructura la base de datos del proyecto Carpooling

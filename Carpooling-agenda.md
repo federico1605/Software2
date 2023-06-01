@@ -42,7 +42,7 @@
 ### Vista lógica
 1.2.2.1 [Diagrama de clases](https://github.com/federico1605/Software2/blob/main/Vista%20logica/Vista%20logica.md)
 
-1.2.2.3 Modelado de datos.
+1.2.2.3 [Modelado de datos.](https://github.com/federico1605/Software2/blob/main/Vista%20logica/Vista%20logica.md)
 
 ### Vista implementación.
 1.2.2.3.1 [Diagrama de paquetes.](https://github.com/federico1605/Software2/blob/main/Vista%20implementacion/Vista%20de%20implementacion.md)
