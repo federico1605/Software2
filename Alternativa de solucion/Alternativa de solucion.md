@@ -17,6 +17,7 @@
 - ### Java:
     - Para realizar el desarrollo del backend y el web socket se utilizara el framework de java Spring boot, el cual es un servicio que es una tecnologia muy usada, la cual provee librerias y funcionalidades las cuales facilitaran, agilizaran y mejoraran el desarrollo de la aplicación web.
     - La versión de java sera java 20 
+    - La versión de spring boot será 3.0.6
 - ### Docker:
     - Se hara de uso del servicio Docker para realizar un despliegue continuo, facilitar la escalabilidad y la eficiencia en el uso de los recursos, se desea usar docker por las herramientas que este provee, la facilidad y fiabilidad al momento de implementarlo a una aplicación.
     - La versión a usar será 1.26.0
