@@ -1,5 +1,8 @@
 # Modelado de dominio
 
+- Motivacion/Objetivo: 
+La motivación del modelado de dominio es representar los objetos, las comunicaciones que se presenta en la estructuracón a nivel de usuarios, lo que quiere decir que explica como se comunica los usuarios con los demas objetos que se presentan en la aplicaion, la motivacion es entender de forma más astracta y aalto nivel como se explica el comportamiento que se logra en la aplicación, objetivo es mostrar como es la interaccion entre los diferentes objetos que hay en el proyecto
+
 **Cliente**
 
 Objeto que representa a un tipo de usuario, el cual es quien solicita el servicio de carro compartido. Es quien contacta con un conductor para llegar a un destino en común.
