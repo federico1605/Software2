@@ -1,5 +1,5 @@
 # Atributos de calidad
-
+Los atributos de calidad nos permite visualizar los atributos de mayor interes y prioridad dentro del proyecto, esto para tener mayor claridad sobre el mismo y manejarlos de la manera adecuada.
 ![Atributos de calidad votación](/Imagenes/Drivers-Arquitectonicos/AtributoCalidad.png)
 
 - Priorización de atributos
