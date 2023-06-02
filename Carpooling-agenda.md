@@ -29,7 +29,7 @@
 1.1.3.4 [Plataforma tecnológica.](https://github.com/federico1605/Software2/blob/main/Alternativa%20de%20solucion/Alternativa%20de%20solucion.md)
 
 ## Diseño detallado.
-1.2.1 Vista funcional.
+### 1.2.1 Vista funcional.
 
 1.2.1.1.1 [Event Storming.](https://miro.com/app/board/uXjVPl0kV0s=/)
 
