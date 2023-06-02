@@ -28,4 +28,20 @@ crosscutting:
 
 En este paquete esta encargado de contener funcionalidades y utilidades basicas y repiten a lo largo de la aplicación.
 
+mapper:
+
+En este paquete esta encargado de contener todas las funcionalidades de mapear las clases, se compone con clases e interfaces.
+
+specification:
+
+En este paquete esta conformado por clases e interfaces donde se presenta la logica para validar la informacion y validar las reglas de negocio.
+
+auth0:
+
+En este paquete contiene la logica con la cual se presenta todas las funcionalidades de autho, donde podra aplicarlo.
+
+email:
+
+En este paquete contiene la logica con la cual se resenta toas las funcionalidades de sendGrip donde se podra aplicar.
+
 [Volver](https://github.com/federico1605/Software2/blob/main/Carpooling-agenda.md)
