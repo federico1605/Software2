@@ -10,18 +10,25 @@
 - El arquetipo que se planteo para solucionar las restricciones de la aplicación fue mantener la arquiterctura de referencia, pero añadiendo las tecnologias que van a solucionar las restricciones, como lo puede ser el uso de:
 - ### AWS WAF:
     - El servicio de AWS WAF es uno de los servicios más utilizado al momento de hacer uso de un servicio waf, el servicio de aws no permite filtrar cuialquier tipo de peticion o intento de ingreso por parte de bots y como funciones adicionales, tambien tiene la capacidad de funcionar como balanceador de cargas mejorando el rendimiento de la aplicación.
+    - La version a utilizar será AWS WAF 2.
 - ### Angular:
     - Por parte del front end se utilizara del framework angular, el cual provee unas herramientas de que facilitaran y agilizaran el uso de la aplicación web.
+    - La versión de angular será Angular 15
 - ### Java:
     - Para realizar el desarrollo del backend y el web socket se utilizara el framework de java Spring boot, el cual es un servicio que es una tecnologia muy usada, la cual provee librerias y funcionalidades las cuales facilitaran, agilizaran y mejoraran el desarrollo de la aplicación web.
+    - La versión de java sera java 20 
 - ### Docker:
     - Se hara de uso del servicio Docker para realizar un despliegue continuo, facilitar la escalabilidad y la eficiencia en el uso de los recursos, se desea usar docker por las herramientas que este provee, la facilidad y fiabilidad al momento de implementarlo a una aplicación.
+    - La versión a usar será 1.26.0
 - ### Postgresql:
     - Se hara uso de una base de datos relacional la cual será postgresql la cual provee una fiabilidad en los datos, es muy eficiente al momento de realizar consultas.
+    - La versión para usar en la versión 14.
 - ### Auth0:
     - Se utilizara como servicio de seguridad Auth0, la cual es una herramienta muy usada, facil se instalar y adaptable a muchos tipos de aplicaciones, la cual provee un servicio web con el cual se facilita el uso y la forma de dar autorizaciones a los diferentes dipos de usuarios y provee servicios para poder aunteticar a usarios con diferentes plataformas, como lo son google, github o microsoft.
+    - La version a usar será 3.4.0
 - ### SendGrid:
     -Es el servicio que se va usar para generar mensajeria dentro y fuera de la aplicación, es un servicio de mensajeria, la cual es facil de integrar, permite multilenguaje, es muy eficiente en el uso de los recursos.
+    - La version a utilizar será 4.9.2
 ## Plataforma Tecnológica:
 - ### Front End:
 - Se desea utilizar el framework de codigo abierto Angular, la cual es una herramienta que pemite manejar la capa visual de una aplicación web, Angular brinda un entorno de trabajo estructurado, lo cual facilitara la mantenibilidad del codigo, provee funcioalidades que agilizan el desarrollo de la aplicación y tambien es muy eficiente para el uso de los usuarios, permite crear paginas web reactivas las cuales mejoran el uso del aplicativo.
