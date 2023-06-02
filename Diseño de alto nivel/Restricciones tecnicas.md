@@ -1,4 +1,5 @@
 ## Restricciones tecnicas:
+Las restricciones tecnicas fueron consideradas luego de evidenciarlas en las encuestas y el interez del usuario en estas.
 
 - Ciertas funciones están disponibles solo para el conductor.
 - La ausensia de una conexión a datos moviles por parte del conductor
